@@ -216,8 +216,8 @@ This repository may be used as:
 **Specialization in Software Engineering**  
 **FEU Institute of Technology**
 
-- Centeno, Deanne Yzabelle E.
-- Delos Santos, Marie Ysabel B.
-- Mangahas, Karl Stephen D.
-- Plaus, Tristan J.
+- Centeno, Deanne Yzabelle E. (QA)
+- Delos Santos, Marie Ysabel B. (Documentation)
+- Mangahas, Karl Stephen D. (Project Manager)
+- Plaus, Tristan J. (Developer)
 2026 
